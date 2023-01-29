@@ -1,4 +1,4 @@
-# 🚀 - Introdução:
+"# 🚀 - Introdução:
 Primeiro projeto do bootcamp da Laboratória para o desenvolvimento e obtenção do conhecimento em HTML, CSS e JavaScript.
 
 # 📖 - Sobre o Projeto:
@@ -11,3 +11,10 @@ Algoritmo de Luhn:<br/>
 
 * npm install
 * npm start
+
+# ⬆️ - Deploy:
+ 
+ * Criação de um arquivo index.html na raíz do projeto
+ 
+ * <meta http-equiv="refresh" content="0; + URL da página + /src/index.html"> dentro do arquivo 
+ 
