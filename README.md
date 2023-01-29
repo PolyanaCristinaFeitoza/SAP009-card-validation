@@ -1,4 +1,4 @@
-"# 🚀 - Introdução:
+# 🚀 - Introdução:
 Primeiro projeto do bootcamp da Laboratória para o desenvolvimento e obtenção do conhecimento em HTML, CSS e JavaScript.
 
 # 📖 - Sobre o Projeto:
