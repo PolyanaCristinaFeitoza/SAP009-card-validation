@@ -14,7 +14,8 @@ Algoritmo de Luhn:<br/>
 
 # ⬆️ - Deploy:
  
- * Criação de um arquivo index.html na raíz do projeto
+ * 🖱️ Settings
  
- * <meta http-equiv="refresh" content="0; + URL da página + /src/index.html"> dentro do arquivo 
- 
+ * 🖱️ Pages
+
+ * 🖱️ Branch: main e root
