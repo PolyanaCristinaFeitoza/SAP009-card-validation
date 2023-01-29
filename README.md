@@ -1,7 +1,9 @@
 # 🚀 - Introdução:
+
 Primeiro projeto do bootcamp da Laboratória para o desenvolvimento e obtenção do conhecimento em HTML, CSS e JavaScript.
 
 # 📖 - Sobre o Projeto:
+
 Validação de números do cartão de crédito usando a fórmula do Algoritmo de Luhn.<br/>
 
 Algoritmo de Luhn:<br/>
@@ -9,15 +11,15 @@ Algoritmo de Luhn:<br/>
 
 # ⚙️ - Como inicializar o projeto:
 
-* npm install
-* npm start
+- npm install
+- npm start
 
 # ⬆️ - Deploy:
 
- * No seu repositório do GitHub clique em **Settings**
- 
- * Depois, no canto esquerdo da tela, clique em **Pages**
+- Rodar npm run deploy
 
- * Em **Branch**, selecione **main** e **root**
+- No seu repositório do GitHub clique em **Settings**
 
- * Mudar o **URL** de redirecionamento que está no index.html para o seu link do GitPages
+- Depois, no canto esquerdo da tela, clique em **Pages**
+
+- Em **Branch**, selecione **gh-pages** e **root** e **save**
