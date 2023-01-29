@@ -18,4 +18,4 @@ Algoritmo de Luhn:<br/>
  
  * Depois, no canto esquerdo da tela, clique em Pages
 
- * Em Branch, selecione main<b/> e root<b/>
+ * Em Branch, selecione <b>main<b/> e <b>root<b/>
