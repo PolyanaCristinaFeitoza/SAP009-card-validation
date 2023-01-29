@@ -20,4 +20,4 @@ Algoritmo de Luhn:<br/>
 
  * Em **Branch**, selecione **main** e **root**
 
- * Mudar o **URL** de redirecionamento que está no index.html para o seu link do GItPages
+ * Mudar o **URL** de redirecionamento que está no index.html para o seu link do GitPages
