@@ -14,8 +14,8 @@ Algoritmo de Luhn:<br/>
 
 # ⬆️ - Deploy:
  
- * 🖱️ Settings
+ * 🖱️ No seu repositório do GitHub clique em Settings
  
- * 🖱️ Pages
+ * 🖱️ Depois, no canto esquerdo da tela, clique em Pages
 
- * 🖱️ Branch: main e root
+ * 🖱️ em Branch, selecione <b/>main<b/> e <b/>root<b/>
