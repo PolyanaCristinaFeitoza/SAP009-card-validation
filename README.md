@@ -3,8 +3,8 @@ Primeiro projeto do bootcamp da Laboratória para o desenvolvimento e obtenção
 
 # 📖 - Sobre o Projeto:
 Validação de números do cartão de crédito usando a fórmula do Algoritmo de Luhn.
-
 Algoritmo de Luhn:
+
 ![alt text](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
 
 # ⚙️ - Como inicializar o projeto:
