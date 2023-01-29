@@ -13,9 +13,11 @@ Algoritmo de Luhn:<br/>
 * npm start
 
 # ⬆️ - Deploy:
- 
+
  * No seu repositório do GitHub clique em **Settings**
  
  * Depois, no canto esquerdo da tela, clique em **Pages**
 
  * Em **Branch**, selecione **main** e **root**
+
+ * Mudar o **URL** de redirecionamento que está no index.html para o seu link do GItPages
