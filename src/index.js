@@ -1,3 +1,31 @@
 import validator from './validator.js';
+const nome = window.prompt('Bem vinda(o) a Loja Laboratória! Qual o seu nome?')
+alert(`Olá, ${nome}!`)
 
-console.log(validator);
+document.querySelector('#botao').onclick = () => {
+  const divResultado = document.querySelector('#resultado')
+  const valor = document.querySelector('#input').value
+  //se o valor digitado for menor que 1, irá retornar um alert
+  if (valor.length < 1) {
+    alert('Digite um número válido')
+    return
+  }
+  const numeroValido = validator.isValid(valor)
+  if (numeroValido === true) {
+    divResultado.innerHTML = 'Compra realizada com sucesso.'
+  } else {
+    divResultado.innerHTML = 'Número inválido, digite novamente.'
+  }
+}
+
+document.querySelector('#input').oninput = () => {
+  const valor = document.querySelector('#input').value
+  const valorFormatado = validator.maskify(valor)
+  document.querySelector('#input').value = valorFormatado
+}
+
+
+
+
+
+
